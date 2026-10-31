@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.12549 (2026-10-31)
+
+- The bundled push module's licence names waev.app as its copyright holder.
+
 ## 1.0.12546 (2026-10-31)
 
 The first public release of the Waev web companion, built from Waev 1.0.5
