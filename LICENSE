@@ -1,12 +1,12 @@
 Waev web companion licence
 
-Copyright (c) 2026 Lloyd Newton & Daniel Duran. All rights reserved.
+Copyright (c) 2026 waev.app. All rights reserved.
 
 "The Software" means the Waev web companion, the openHop Repeater plugin
 waev.companion, as published in this repository's GitHub releases, including
 the programs, user interface and documentation it contains.
 
-1. Licence. Subject to these terms, the copyright owners grant you a free,
+1. Licence. Subject to these terms, waev.app grants you a free,
    non-exclusive, non-transferable, worldwide licence to download the
    Software from its official release, install it, and run it on repeaters
    and other devices you operate or administer, for any lawful purpose.
@@ -35,7 +35,7 @@ the programs, user interface and documentation it contains.
    cycle limits, and for how you use the networks you connect to. Waev does
    not operate or centrally moderate MeshCore networks.
 
-5. Ownership. The Software is licensed, not sold. The copyright owners keep
+5. Ownership. The Software is licensed, not sold. waev.app keeps
    all rights not expressly granted.
 
 6. Termination. This licence ends automatically if you breach these terms.
@@ -45,6 +45,6 @@ the programs, user interface and documentation it contains.
    KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
    MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
-8. Limitation of liability. IN NO EVENT SHALL THE COPYRIGHT OWNERS BE LIABLE
+8. Limitation of liability. IN NO EVENT SHALL WAEV.APP BE LIABLE
    FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
    CONNECTION WITH THE SOFTWARE OR THE USE OF IT.
