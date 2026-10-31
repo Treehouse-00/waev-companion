@@ -1,0 +1,50 @@
+Waev web companion licence
+
+Copyright (c) 2026 Lloyd Newton & Daniel Duran. All rights reserved.
+
+"The Software" means the Waev web companion, the openHop Repeater plugin
+waev.companion, as published in this repository's GitHub releases, including
+the programs, user interface and documentation it contains.
+
+1. Licence. Subject to these terms, the copyright owners grant you a free,
+   non-exclusive, non-transferable, worldwide licence to download the
+   Software from its official release, install it, and run it on repeaters
+   and other devices you operate or administer, for any lawful purpose.
+
+2. Restrictions. Except where these terms or applicable law expressly allow
+   it, you may not:
+   (a) copy the Software, other than as needed to install, run and back it
+       up;
+   (b) modify or translate the Software, or make derivative works of it;
+   (c) decompile, disassemble or reverse engineer the Software, except to
+       the extent applicable law permits despite this restriction;
+   (d) sell, rent, lend, sublicense, publish or otherwise redistribute the
+       Software, or offer it as a hosted service;
+   (e) remove or alter any copyright, licence or attribution notice.
+   You may share links to the official release and to the Software's
+   listing in the openHop plugin catalogue.
+
+3. Third-party components. The Software includes components licensed by
+   third parties, and the waev_push package, which is licensed under the MIT
+   License. Each is governed by its own licence, listed in
+   THIRD_PARTY_NOTICES.md and in the licence files included in the Software.
+   Nothing in these terms limits your rights under those licences.
+
+4. Radio use. The Software controls radio equipment. You are responsible for
+   operating it lawfully where you are, including frequency, power and duty
+   cycle limits, and for how you use the networks you connect to. Waev does
+   not operate or centrally moderate MeshCore networks.
+
+5. Ownership. The Software is licensed, not sold. The copyright owners keep
+   all rights not expressly granted.
+
+6. Termination. This licence ends automatically if you breach these terms.
+   You must then stop using the Software and delete your copies.
+
+7. No warranty. THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+8. Limitation of liability. IN NO EVENT SHALL THE COPYRIGHT OWNERS BE LIABLE
+   FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN
+   CONNECTION WITH THE SOFTWARE OR THE USE OF IT.
