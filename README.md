@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/images/waev-companion-card.jpg" alt="The Waev web companion: a channel conversation on a phone-sized browser in front of the mesh map" width="100%">
+  <img src="docs/images/waev-companion-card.jpg" alt="Waev openHop companion: a message reaches Ridge Base across three repeaters on the mesh map, and the reply goes back" width="100%">
 </p>
 
 <h1 align="center">Waev web companion</h1>
