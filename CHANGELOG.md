@@ -1,5 +1,13 @@
 # Changelog
 
+## 1.0.13043 (2026-11-07)
+
+Built from Waev 1.0.5 (260).
+
+- Settings ends with the Waev apps, just above the version line: the app
+  icon, "Close the tab. Keep the mesh." and the App Store and Google Play
+  badges. The badges are pictures for now, not links.
+
 ## 1.0.13042 (2026-11-07)
 
 Built from Waev 1.0.5 (260).
