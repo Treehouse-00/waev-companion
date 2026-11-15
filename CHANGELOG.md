@@ -1,5 +1,22 @@
 # Changelog
 
+## 1.0.13063 (2026-11-15)
+
+Built from Waev 1.0.5 (261).
+
+- **The status holds while the radio attaches.** On a companion this
+  repeater hosts, Waev takes the radio only when an action needs it. That
+  short wait used to turn the status light blue and say "Connecting", as if
+  the link had dropped. Now the status keeps its state, and the row or
+  header you used says "Waiting for the radio" until the action runs.
+- **A busy channel no longer drops the link.** A path trace, or a ping to a
+  repeater, waits up to 15 seconds for the radio to take it (it was 5). The
+  repeater answers only once the packet is on the air, so a busy channel or
+  a spent duty cycle could outlast the old wait, which dropped the link and
+  dialled again.
+- With a handheld linked over TCP or Bluetooth, a message send gets the same
+  15 seconds.
+
 ## 1.0.13043 (2026-11-07)
 
 Built from Waev 1.0.5 (260).
