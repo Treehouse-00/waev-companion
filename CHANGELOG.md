@@ -1,5 +1,21 @@
 # Changelog
 
+## 1.0.13073 (2026-11-15)
+
+Built from Waev 1.0.5 (261).
+
+- **A ping from Contact details no longer drops the link.** On a companion
+  this repeater hosts, the ping went out after the page's own action had
+  ended, so the plugin's guard refused it, the ping failed and the radio
+  link closed. It now goes out as your action, as a path trace does.
+- **The plugin's version beside the brand.** A yellow dot beside it means
+  there are notes you haven't read, or a newer release to install.
+- **What's new.** The version opens the release notes: this release's
+  first, the earlier ones below. Settings › This browser has it too.
+- **Update from the page.** What's new asks OpenHop's plugin manager for a
+  newer release and installs it, then the page reloads. A repeater without
+  the manager's update support says to update from the console.
+
 ## 1.0.13063 (2026-11-15)
 
 Built from Waev 1.0.5 (261).
