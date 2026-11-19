@@ -1,5 +1,23 @@
 # Changelog
 
+## 1.0.13111 (2026-11-18)
+
+Built from Waev 1.0.5 (262).
+
+- **Ping from a node's menu on the map.** A repeater's or a person's menu
+  (right-click or long-press its row, or the ⋯ on its card) now starts with
+  Ping, so it no longer takes opening Edit and scrolling. It sends only when
+  you choose it, and shows the answer as Contact details does.
+- **A message's relays in Path details.** For a direct message or a room
+  post that repeaters carried, Path details now names each relay, as a
+  channel message's does. On a companion this repeater hosts, the relays
+  come from the repeater's packet log a moment after the message; if the log
+  doesn't have its packet, the message keeps its hop count.
+- **A relayed message no longer reads "Direct".** Path details said Direct
+  for a direct message or a room post however many hops it came by. With no
+  relays recorded it now says "No path evidence was recorded for this
+  message."
+
 ## 1.0.13073 (2026-11-15)
 
 Built from Waev 1.0.5 (261).
